@@ -8,4 +8,6 @@ En este curso vimos:
 * El flujo de trabajo.
 * creado por el increible jose
 * incluye ejemplos pulentos
+* disponible para algunas xd
+
 Este es el comienzo de algo grande.
