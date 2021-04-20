@@ -6,5 +6,6 @@ un blog incleible para un [**curso de platzi**](http:/https://platzi.com/clases/
 En este curso vimos:
 * Todos los comandos de git.
 * El flujo de trabajo.
+* creado por el increible jose
 
 Este es el comienzo de algo grande.
