@@ -7,5 +7,5 @@ En este curso vimos:
 * Todos los comandos de git.
 * El flujo de trabajo.
 * creado por el increible jose
-
+* incluye ejemplos pulentos
 Este es el comienzo de algo grande.
